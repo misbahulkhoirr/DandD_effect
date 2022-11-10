@@ -1,4 +1,4 @@
-/* BASIC STYLES */
+
 :root {
     --yellow: #fffbbc;
     --lightbox: #242424;
@@ -28,8 +28,7 @@
   }
   
   
-  /* IMAGE GRID STYLES
- */
+
   .image-grid figure {
     margin-bottom: 0;
   }
@@ -43,9 +42,7 @@
     box-shadow: 0 1rem 1rem rgba(0, 0, 0, 0.35);
   }
   
-  
-  /* LIGHTBOX STYLES
- */
+
   .lightbox-modal .modal-content {
     background: var(--lightbox);
   }
@@ -95,8 +92,7 @@
   }
   
   
-  /* FOOTER STYLES
- */
+
   .page-footer {
     position: fixed;
     right: 0;
