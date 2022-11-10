@@ -1,5 +1,4 @@
-/* BASIC STYLES
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+/* BASIC STYLES */
 :root {
     --yellow: #fffbbc;
     --lightbox: #242424;
@@ -30,7 +29,7 @@
   
   
   /* IMAGE GRID STYLES
-  –––––––––––––––––––––––––––––––––––––––––––––––––– */
+ */
   .image-grid figure {
     margin-bottom: 0;
   }
@@ -46,7 +45,7 @@
   
   
   /* LIGHTBOX STYLES
-  –––––––––––––––––––––––––––––––––––––––––––––––––– */
+ */
   .lightbox-modal .modal-content {
     background: var(--lightbox);
   }
@@ -97,7 +96,7 @@
   
   
   /* FOOTER STYLES
-  –––––––––––––––––––––––––––––––––––––––––––––––––– */
+ */
   .page-footer {
     position: fixed;
     right: 0;
