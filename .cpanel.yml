@@ -10,5 +10,5 @@ deployment:
     - /bin/cp/js/my_js.js $DEPLOYPATH #copy specific file from source sub folder
     - /bin/cp/js/testimoni.js $DEPLOYPATH #copy specific file from source sub folder
     - /bin/cp -R img $DEPLOYPATH
-    - /bin/cp/img -R galery $DEPLOYPATH
-    - /bin/cp -R fonts $DEPLOYPATH
+    # - /bin/cp/img -R galery $DEPLOYPATH
+    # - /bin/cp -R fonts $DEPLOYPATH
