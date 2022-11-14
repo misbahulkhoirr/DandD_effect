@@ -3,8 +3,8 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/u1608313/public_html # Add /<app_folder> if required
     - /bin/cp index.html $DEPLOYPATH #Copy specific file to destination from root
+    - /bin/cp sitemap.xml $DEPLOYPATH #Copy specific file to destination from root
     - /bin/cp -R css $DEPLOYPATH
     - /bin/cp -R js $DEPLOYPATH
     - /bin/cp -R img $DEPLOYPATH
     - /bin/cp -R fonts $DEPLOYPATH
-    - /bin/cp -R assets $DEPLOYPATH
